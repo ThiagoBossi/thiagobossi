@@ -1,17 +1,25 @@
-### Olá! 👋 Eu me chamo Thiago Bossi. 
-
-- 🔭 Atualmente trabalhando com Aplicações WEB.
-- 🌱 Estudando NodeJS.
-- 📫 Você pode me contatar por aqui: thiagobossi@hotmail.com
-
+<h1>Olá! 👋 Eu me chamo Thiago Bossi.</h1>
+<br/>
+<div style="display: inline-block">
+• 🔭 Atualmente trabalhando com aplicações WEB.
+</div>
+<div style="display: inline-block">
+• 🌱 Estudando NodeJS e React.
+</div>
+<div style="display: inline-block">
+• 📫 Você pode me contatar por aqui: thiagobossi@hotmail.com
+</div>
+<br/>
+<hr/>
+<br/>
 <div align="center">
   <a href="https://github.com/thiagobossi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagobossi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobossi&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br/>
+<hr/>
 <br/>
-  <h1>Vivendo e aprendendo...</h1>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
