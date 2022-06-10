@@ -1,13 +1,14 @@
-<h1>Olá! 👋 Eu me chamo Thiago Bossi.</h1>
+<h1>Olá! 👋 Hey there! I'm Thiago Henrique.</h1>
 <br/>
 <div style="display: inline-block">
-• 🔭 Atualmente trabalhando com aplicações WEB.
+• 💻 I'm currently working on WEB Applications.
 </div>
 <div style="display: inline-block">
-• 🌱 Estudando NodeJS e React.
+• 🌱 Working on my NodeJS & React skills.
 </div>
+<hr/>
 <div style="display: inline-block">
-• 📫 Você pode me contatar por aqui: thiagobossi@hotmail.com
+• 📫 Contact-me on: thiagobossi@hotmail.com
 </div>
 <br/>
 <hr/>
