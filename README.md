@@ -8,7 +8,7 @@
 </div>
 <hr/>
 <div style="display: inline-block">
-• 📫 Contact-me on: thiagobossi@hotmail.com
+• 📫 Contact-me on: <b>thiagobossi@hotmail.com<b/>
 </div>
 <hr/>
 <div align="center">
