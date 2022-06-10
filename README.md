@@ -1,4 +1,4 @@
-<h1>Olá! 👋 Hey there! I'm Thiago Henrique.</h1>
+<h1>Hey there! 👋 I'm Thiago Henrique.</h1>
 <br/>
 <div style="display: inline-block">
 • 💻 I'm currently working on WEB Applications.
@@ -10,9 +10,7 @@
 <div style="display: inline-block">
 • 📫 Contact-me on: thiagobossi@hotmail.com
 </div>
-<br/>
 <hr/>
-<br/>
 <div align="center">
   <a href="https://github.com/thiagobossi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagobossi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
