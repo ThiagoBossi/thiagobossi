@@ -1,5 +1,5 @@
 <h1>Hey there! 👋 I'm Thiago Henrique.</h1>
-<br/>
+<hr/>
 <div style="display: inline-block">
 • 💻 I'm currently working with WEB Applications.
 </div>
