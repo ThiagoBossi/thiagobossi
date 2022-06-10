@@ -1,4 +1,4 @@
-<h1>Hey there! 👋 I'm Thiago Henrique.</h1>
+<h1>Hey there! 👋 I'm Thiago Bossi.</h1>
 <div style="display: inline-block">
 • 💻 I'm currently working with WEB Applications.
 </div>
