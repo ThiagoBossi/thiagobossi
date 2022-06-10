@@ -1,7 +1,7 @@
 <h1>Hey there! 👋 I'm Thiago Henrique.</h1>
 <br/>
 <div style="display: inline-block">
-• 💻 I'm currently working on WEB Applications.
+• 💻 I'm currently working with WEB Applications.
 </div>
 <div style="display: inline-block">
 • 🌱 Working on my NodeJS & React skills.
