@@ -1,9 +1,9 @@
 <h1>Hey there! 👋 I'm Thiago Bossi.</h1>
 <div style="display: inline-block">
-• 💻 I'm currently working with WEB Applications.
+  • 💻 I'm currently working with <b>WEB Applications</b>.
 </div>
 <div style="display: inline-block">
-• 🌱 Working on my NodeJS & React skills.
+• 📖 Working on my <b>NodeJS</b> & <b>React</b> skills.
 </div>
 <hr/>
 <div style="display: inline-block">
